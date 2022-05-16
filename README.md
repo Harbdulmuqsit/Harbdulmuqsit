@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Harbdulmuqsit
-- 👀 I’m interested in learning how to code 
-- 🌱 I’m currently learning JavaScript and I need help in learning it
+- 👋 Hi, I’m @Harbdulmuqsit 
+- 🌱 I’m a frontend developer
+- my skills are - Html, css, javascript, bootstrap, Tailwind css and React js 
 - 💞️ I’m looking to collaborate on projects that will give exposure on my learning
 - 📫 How to reach me on WhatsApp:. 08066727028
 
